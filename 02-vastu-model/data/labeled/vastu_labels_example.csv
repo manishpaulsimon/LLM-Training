@@ -1,0 +1,4 @@
+image_path,entrance_dir,kitchen_placement,master_bedroom,toilet_placement,pooja_room,living_room,staircase,open_space,overall_shape,notes,vastu_score,compliant
+example_plan_001.png,N,SE,SW,NW,NE,N,SW,NE,yes,Textbook Vastu-compliant layout,10.0,yes
+example_plan_002.png,S,NW,NE,SE,NONE,W,NE,S,no,Multiple violations - entrance south kitchen NW,1.4,no
+example_plan_003.png,E,SE,SW,NW,NONE,NE,NONE,N,yes,Good layout missing pooja room,8.6,yes

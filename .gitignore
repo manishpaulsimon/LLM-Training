@@ -1,0 +1,40 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Data (large files — keep structure, ignore contents)
+01-fundamentals/data/
+02-vastu-model/data/raw/
+02-vastu-model/data/synthetic/
+03-bim-analyzer/data/raw/
+
+# Models (large files)
+*.pth
+*.pt
+*.bin
+*.safetensors
+02-vastu-model/models/
+03-bim-analyzer/models/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Training artifacts
+*.png
+wandb/
+runs/

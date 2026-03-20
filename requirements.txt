@@ -1,0 +1,28 @@
+# Core ML
+torch
+torchvision
+transformers
+datasets
+accelerate
+peft
+bitsandbytes
+
+# Image processing
+pillow
+opencv-python
+
+# Data & visualization
+matplotlib
+numpy
+pandas
+jupyter
+ipywidgets
+
+# Web app (Phase 6)
+fastapi
+uvicorn
+python-multipart
+
+# Utilities
+tqdm
+scikit-learn
