@@ -40,9 +40,9 @@ python verify_setup.py
 ## Progress
 
 - [x] Phase 1A: Environment setup
-- [ ] Phase 1B: CIFAR-10 classifier (PyTorch fundamentals)
+- [x] Phase 1B: CIFAR-10 classifier (PyTorch fundamentals)
 - [ ] Phase 1C: Data collection & labeling schema
-- [ ] Phase 2: Vision Transformer + Baby GPT from scratch
+- [x] Phase 2: Vision Transformer + Baby GPT from scratch
 - [ ] Phase 3: Vision-Language Model
 - [ ] Phase 4: Vastu scoring model
 - [ ] Phase 5: BIM analyzer
